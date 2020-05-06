@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_border">5dp</dimen>
+
+    <dimen name="padding_book_details_info">10dp</dimen>
+    <dimen name="padding_prefs_item">20dp</dimen>
+
+    <!-- Size of key of ISBN search keyboard -->
+    <dimen name="isbn_key_size">75dp</dimen>
+</resources>

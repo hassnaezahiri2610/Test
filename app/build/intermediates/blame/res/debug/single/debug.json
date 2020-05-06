@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_details.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_book_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittextstyle.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyleselector.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\buttonstyleselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_my_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradientbackground.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\nav_header_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_categorie.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_categorie.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ouvrage.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_ouvrage.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_score.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_user.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_etoile.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_etoile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_pass.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-anydpi\\ic_action_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_circle.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyleclicked.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\buttonstyleclicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile2.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_skype.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\logo_skype.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_child.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_pass.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_pin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_person_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_primary_bg.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\button_primary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.PNG.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_launcher.PNG"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grey_list_divider.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\grey_list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bus.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_bus.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_pass.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_border_rect_gray.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\corner_border_rect_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_name.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\name.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_students.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_add_students.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstylenormal.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\buttonstylenormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\app_bar_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_positive_text_drawable.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\button_positive_text_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photocercle.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\photocercle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wiam4.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\wiam4.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_admin_drawer.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\menu\\activity_admin_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_user.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_out_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\out_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_user.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_negative_text_drawable.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\button_negative_text_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_log_out.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_log_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_update.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_location_.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\content_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_border_gray.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\corner_border_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_user.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-mdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_group_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rad.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\rad.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu_admin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\menu\\admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_pass.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_user.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-anydpi\\ic_action_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\bg_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_pass.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_childs.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_childs.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon1.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_icon1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pwd.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Test\\app\\src\\main\\res\\drawable\\ic_pwd.xml"
+    }
+]

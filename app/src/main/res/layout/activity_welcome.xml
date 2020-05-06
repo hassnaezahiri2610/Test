@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff"
+    android:layout_height="match_parent"
+    tools:context=".welcome">
+    <ImageView
+
+        android:id="@+id/bgHeader"
+        android:src="@drawable/wiam4"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:elevation="5dp" />
+
+    <ScrollView
+        android:background="@color/login_form_details"
+        android:layout_below="@+id/bgHeader"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="center_vertical"
+        android:layout_margin="20dp">
+        <RelativeLayout
+            android:id="@+id/rlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerVertical="true"
+                >
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="30dp"
+                    android:background="@drawable/rad"
+                    android:backgroundTint="#87CEFA"
+                    android:text="Exit"
+                    android:visibility="visible"
+                    />
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="30dp"
+                    android:background="@drawable/rad"
+                    android:backgroundTint="#87CEFA"
+                    android:text="Sign up"
+                    android:visibility="visible"
+
+                    />
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="30dp"
+                    android:background="@drawable/rad"
+                    android:backgroundTint="#87CEFA"
+                    android:text="Login"
+                    android:visibility="visible"
+                    />
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="30dp"
+                    android:background="@drawable/rad"
+                    android:backgroundTint="#87CEFA"
+                    android:text="Books"
+                    android:visibility="visible"
+                    />
+
+
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
